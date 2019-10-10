@@ -12,6 +12,9 @@ GitHub:
 - [Private] https://github.com/athena-xcy/CS50-Translate-Group  
 - [Public] https://github.com/athena-xcy/CS50-Study-Group  
 
+Figma:
+- Wireframe: https://www.figma.com/file/fUP2t3McnDlQTeLdBjEIom/10%2F2-1st-version?node-id=0%3A1
+
 Asana: 
 - https://app.asana.com/0/1135346139432882/1135346139432882  
 
